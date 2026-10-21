@@ -16,5 +16,10 @@ namespace git_pr08
         {
             InitializeComponent();
         }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
